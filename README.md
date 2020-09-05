@@ -5,29 +5,36 @@ Need Sample / Formula for calculate the predict ? <a href="">Click Here</a>
 
 ### Demo App
 
-[![Download](https://camo.githubusercontent.com/a9c59dcbf62ec123e8bb099fb473ad30554d70e6/68747470733a2f2f69312e77702e636f6d2f61706b6d6f6473696f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f446f776e6c6f61642d496e66696e6974652d44657369676e2d332e342e31302d41706b2e706e67 "Download")](https://drive.google.com/open?id=1ceQFM-YF7DMgU9rGhdgNbaP2z88CQnAw)
+[![Download](https://camo.githubusercontent.com/a9c59dcbf62ec123e8bb099fb473ad30554d70e6/68747470733a2f2f69312e77702e636f6d2f61706b6d6f6473696f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f446f776e6c6f61642d496e66696e6974652d44657369676e2d332e342e31302d41706b2e706e67 "Download")](https://github.com/illusi03/rn-prodi-pub/tree/master/Other/ReactNative_Prodi.apk)
 
 ### Demo (Gif)
 
 <p float="center">
 
-![RN_PRODI](https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Kedai_papalapar.gif)
+![RN_PRODI](https://github.com/illusi03/rn-prodi-pub/tree/master/Video/2020-09-04-16-51-08.gif)
 
 </p>
 
 ### Demo (Image)
 
 <p float="left">
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-42-16.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-42-55.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-44-38.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-44-45.png" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170401_RN%20Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170408_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170419_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170438_RN Prodi.jpg" width="200" height="350" alt="Image"/>
 </p>
 <p float="left">
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-44-59.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-45-03.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-45-15.png" width="200" height="350" alt="Image"/>
-  <img src="https://github.com/illusi03/RN_Kedai/blob/master/Screenshots/Screenshot_2019-09-03-08-45-20.png" width="200" height="350" alt="Image"/>
+   <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170450_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170512_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170518_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170520_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+</p>
+<p float="left">
+   <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170523_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170546_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170549_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170554_RN Prodi.jpg" width="200" height="350" alt="Image"/>
+  <img src="https://github.com/illusi03/rn-prodi-pub/blob/master/SS/Screenshot_20200904-170600_RN Prodi.jpg" width="200" height="350" alt="Image"/>
 </p>
 
 ### Todos
