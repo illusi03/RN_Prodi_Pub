@@ -1,7 +1,7 @@
 ## React Native Prodi
 
 Application that can make decisions computational for the selection courses.
-Need Sample / Formula for calculate the predict ? <a href="">Click Here</a>
+Need Sample / Formula for calculate the predict ? <a href="https://github.com/illusi03/rn-prodi-pub/tree/master/Other/CaseStudy.xlsx">Click Here</a>
 
 ### Demo App
 
@@ -11,7 +11,7 @@ Need Sample / Formula for calculate the predict ? <a href="">Click Here</a>
 
 <p float="center">
 
-![RN_PRODI](https://github.com/illusi03/rn-prodi-pub/tree/master/Video/2020-09-04-16-51-08.gif)
+![](https://github.com/illusi03/rn-prodi-pub/tree/master/Video/2020-09-04-16-51-08.gif)
 
 </p>
 
