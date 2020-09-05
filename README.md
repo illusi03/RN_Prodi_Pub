@@ -1,17 +1,17 @@
 ## React Native Prodi
 
 Application that can make decisions computational for the selection courses.
-Need Sample / Formula for calculate the predict ? <a href="https://github.com/illusi03/rn-prodi-pub/tree/master/Other/CaseStudy.xlsx">Click Here</a>
+Need Sample / Formula for calculate the predict ? <a href="https://github.com/illusi03/rn-prodi-pub/raw/master/Other/CaseStudy.xlsx">Click Here</a>
 
 ### Demo App
 
-[![Download](https://camo.githubusercontent.com/a9c59dcbf62ec123e8bb099fb473ad30554d70e6/68747470733a2f2f69312e77702e636f6d2f61706b6d6f6473696f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f446f776e6c6f61642d496e66696e6974652d44657369676e2d332e342e31302d41706b2e706e67 "Download")](https://github.com/illusi03/rn-prodi-pub/tree/master/Other/ReactNative_Prodi.apk)
+[![Download](https://camo.githubusercontent.com/a9c59dcbf62ec123e8bb099fb473ad30554d70e6/68747470733a2f2f69312e77702e636f6d2f61706b6d6f6473696f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f446f776e6c6f61642d496e66696e6974652d44657369676e2d332e342e31302d41706b2e706e67 "Download")](https://github.com/illusi03/rn-prodi-pub/raw/master/Other/ReactNative_Prodi.apk)
 
 ### Demo (Gif)
 
 <p float="center">
 
-![](https://github.com/illusi03/rn-prodi-pub/tree/master/Video/2020-09-04-16-51-08.gif)
+![RN_DEMO](https://github.com/illusi03/rn-prodi-pub/raw/master/Video/2020-09-04-16-51-08.gif)
 
 </p>
 
